@@ -1,4 +1,4 @@
-Task Manager for iOS — Support
+SysTracker— Support
 
 Welcome
 
@@ -11,11 +11,11 @@ Frequently Asked Questions
 
 What does this app do?
 
-Task Manager for iOS provides real-time monitoring of your device's performance, including CPU usage, memory (RAM), GPU utilization, disk storage, network activity, and battery health — all presented with a professional, animated interface.
+SysTrackerprovides real-time monitoring of your device's performance, including CPU usage, memory (RAM), GPU utilization, disk storage, network activity, and battery health — all presented with a professional, animated interface.
 
 Is my data collected or shared?
 
-No. Task Manager for iOS operates entirely on your device. No personal data, system metrics, or usage information is collected, stored, or transmitted to any server. Your privacy is fully protected.
+No. SysTrackeroperates entirely on your device. No personal data, system metrics, or usage information is collected, stored, or transmitted to any server. Your privacy is fully protected.
 
 Does this app drain my battery?
 
@@ -27,7 +27,7 @@ Due to iOS sandboxing restrictions, certain system metrics (such as per-app CPU 
 
 Does the app work on iPad?
 
-Yes. Task Manager for iOS is fully optimized for both iPhone and iPad, with adaptive layouts that take advantage of larger screens.
+Yes. SysTrackeris fully optimized for both iPhone and iPad, with adaptive layouts that take advantage of larger screens.
 
 Which iOS version is required?
 
